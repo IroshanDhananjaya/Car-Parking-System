@@ -1,0 +1,22 @@
+
+S
+java:S1197"8Move the array designator from the variable to the type.(“Òò·øÿÿÿÿ
+N
+java:S1197"8Move the array designator from the variable to the type.(´İ÷Ì
+=
+java:S3010"'Remove this assignment of "parakArray".(°˜ˆÿ
+B
+java:S3010"'Remove this assignment of "leaveArray".(£ÈÜ…øÿÿÿÿ
+Q
+java:S2696"6Make the enclosing method "static" or remove this set.(ï”¦¯şÿÿÿÿ
+Q
+java:S2696"6Make the enclosing method "static" or remove this set.(«é£¿şÿÿÿÿ
+Q
+java:S2696&"6Make the enclosing method "static" or remove this set.(Ï—»ùÿÿÿÿ
+K
+java:S2696-"6Make the enclosing method "static" or remove this set.(æÑë&
+N
+java:S4973"9Use the "equals" method if value comparison was intended.(Ş Ç
+O
+java:S4973$"9Use the "equals" method if value comparison was intended.(Ÿâ¿«
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º›°Î

@@ -1,0 +1,84 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(ÌÍ€´
+J
+java:S3740"/Provide the parametrized type for this generic.(…­áşÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(ØÁ÷Øüÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(ß€¶£
+E
+java:S3740"/Provide the parametrized type for this generic.(‹Û¨Õ
+J
+java:S3740"/Provide the parametrized type for this generic.( «„°úÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(–ÍŸÁ
+E
+java:S3740"/Provide the parametrized type for this generic.(ø×Œß
+J
+java:S3740"/Provide the parametrized type for this generic.(Õù—Úıÿÿÿÿ
+E
+java:S3740 "/Provide the parametrized type for this generic.(ç½ş¤
+J
+java:S3740!"/Provide the parametrized type for this generic.(Ì¡ªÚøÿÿÿÿ
+E
+java:S3740*"/Provide the parametrized type for this generic.(êš—
+E
+java:S3740+"/Provide the parametrized type for this generic.(½Øôú
+E
+java:S3740,"/Provide the parametrized type for this generic.(ëØÜÿ
+J
+java:S3740-"/Provide the parametrized type for this generic.(ğññúÿÿÿÿ
+E
+java:S37400"/Provide the parametrized type for this generic.(âÄå
+J
+java:S37401"/Provide the parametrized type for this generic.(éışÿÿÿÿ
+J
+java:S37402"/Provide the parametrized type for this generic.(ö’€ôÿÿÿÿÿ
+J
+java:S37403"/Provide the parametrized type for this generic.(Ñó¤Œıÿÿÿÿ
+p	java:S116"[Rename this field "InParkingContext" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÅ¾
+P	java:S125$"<This block of commented-out lines of code should be removed.(ôÀÆ
+V	java:S125."<This block of commented-out lines of code should be removed.(â©åöüÿÿÿÿ
+M
+java:S11727"2Remove this unused method parameter "actionEvent".(íùØúÿÿÿÿ
+M
+java:S1172@"2Remove this unused method parameter "actionEvent".(ßøÎğûÿÿÿÿ
+H
+java:S1172I"2Remove this unused method parameter "actionEvent".(ƒªåÜ
+Q	java:S125P"<This block of commented-out lines of code should be removed.(‹ÊÖô
+M
+java:S1172X"2Remove this unused method parameter "actionEvent".(†–«–şÿÿÿÿ
+K
+java:S2209e"5Change this instance-reference to a static reference.(ˆœ³‰
+P
+java:S2209f"5Change this instance-reference to a static reference.(§ô‚ùÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+r
+java:S1104"\Make InParkingContext a static final constant or non-public and provide accessors if needed.(ÿÅ¾
+n
+java:S1104"XMake tblInParking a static final constant or non-public and provide accessors if needed.(ÌÍ€´
+w
+java:S1104"\Make colVehicleNumber a static final constant or non-public and provide accessors if needed.(…­áşÿÿÿÿ
+u
+java:S1104"ZMake colVehicleType a static final constant or non-public and provide accessors if needed.(ØÁ÷Øüÿÿÿÿ
+p
+java:S1104"ZMake colParkingSlot a static final constant or non-public and provide accessors if needed.(ß€¶£
+o
+java:S1104"YMake colParkedTime a static final constant or non-public and provide accessors if needed.(‹Û¨Õ
+q
+java:S1104"VMake tblDeliver a static final constant or non-public and provide accessors if needed.( «„°úÿÿÿÿ
+y
+java:S1104"cMake colDeliverVehicleNumber a static final constant or non-public and provide accessors if needed.(–ÍŸÁ
+w
+java:S1104"aMake colDeliverVehicleType a static final constant or non-public and provide accessors if needed.(ø×Œß
+t
+java:S1104"YMake colDriverName a static final constant or non-public and provide accessors if needed.(Õù—Úıÿÿÿÿ
+n
+java:S1104 "XMake colLeaveTime a static final constant or non-public and provide accessors if needed.(ç½ş¤
+y
+java:S1104!"^Make cmdParkingandLeave a static final constant or non-public and provide accessors if needed.(Ì¡ªÚøÿÿÿÿ
+k
+java:S1104""UMake btnlogOut a static final constant or non-public and provide accessors if needed.(ğÛÃ·
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º›°Î

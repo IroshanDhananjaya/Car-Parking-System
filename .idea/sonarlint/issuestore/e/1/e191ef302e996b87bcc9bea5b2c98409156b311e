@@ -1,0 +1,18 @@
+
+M
+java:S1172"2Remove this unused method parameter "actionEvent".(½ÊË°ûÿÿÿÿ
+H
+java:S1172"2Remove this unused method parameter "actionEvent".(Ã‹ÛÓ
+{
+java:S2178"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(ŸüŸ^
+D
+java:S1128")Remove this unused import 'java.net.URL'.(ñìÁ„üÿÿÿÿ
+x
+java:S1104"bMake managementLoginContext a static final constant or non-public and provide accessors if needed.(ƒ£ÕÊ
+m
+java:S1104"WMake txtUserName a static final constant or non-public and provide accessors if needed.(Äù±Ú
+m
+java:S1104"WMake txtPassword a static final constant or non-public and provide accessors if needed.(¨ğû
+k
+java:S1104"VMake anchorPane a static final constant or non-public and provide accessors if needed.(Û§™
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º›°Î

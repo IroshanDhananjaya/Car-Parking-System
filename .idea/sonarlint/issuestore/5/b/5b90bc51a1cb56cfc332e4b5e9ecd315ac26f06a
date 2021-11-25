@@ -1,0 +1,21 @@
+
+S
+java:S1197"8Move the array designator from the variable to the type.(ğÇºŞÿÿÿÿÿ
+H
+java:S1172"2Remove this unused method parameter "actionEvent".(§ÁçÄ
+N
+java:S1128"3Remove this unused import 'javafx.fxml.FXMLLoader'.(À‡ô³úÿÿÿÿ
+r
+java:S1104	"\Make addDriverContext a static final constant or non-public and provide accessors if needed.(”³§
+o
+java:S1104
+"YMake txtDriverName a static final constant or non-public and provide accessors if needed.(ì„°Ü
+m
+java:S1104"RMake txtNIC a static final constant or non-public and provide accessors if needed.(ÍÁÓøÿÿÿÿ
+s
+java:S1104"XMake txtLicenseNo a static final constant or non-public and provide accessors if needed.(êš†éùÿÿÿÿ
+q
+java:S1104"VMake txtAddress a static final constant or non-public and provide accessors if needed.(ºåıÿÿÿÿ
+s
+java:S1104"XMake txtContactNo a static final constant or non-public and provide accessors if needed.(¿ıµÁÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º›°Î

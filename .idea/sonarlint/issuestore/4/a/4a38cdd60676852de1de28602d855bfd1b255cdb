@@ -1,0 +1,41 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(³ÜÅûýÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(—ê¼ý
+R
+java:S2387!"<"driverName" is the name of a field in "VehicleSlotandType".(ÉÞø
+[
+java:S2387‡"?"vehicleNumber" is the name of a field in "VehicleSlotandType".(Ã×ì§ûÿÿÿÿ
+s
+java:S4144"]Update this method so that its implementation is not identical to "isExistsPark" on line 117.(õ¶ˆœ
+S
+java:S1197#"8Move the array designator from the variable to the type.(€ºüÜýÿÿÿÿ
+t
+java:S1171%"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+G
+java:S1602<",Remove useless curly braces around statement(Ìƒ™Øùÿÿÿÿ
+M
+java:S1172M"2Remove this unused method parameter "actionEvent".(Ç‰—¾ùÿÿÿÿ
+h	java:S100V"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²§±Úûÿÿÿÿ
+M
+java:S1172V"2Remove this unused method parameter "actionEvent".(²§±Úûÿÿÿÿ
+M
+java:S1172i"2Remove this unused method parameter "actionEvent".(™Ê¾Õúÿÿÿÿ
+y
+java:S1104"^Make firstWindowContext a static final constant or non-public and provide accessors if needed.(îêÖòûÿÿÿÿ
+w
+java:S1104"\Make cmdVehicleNumber a static final constant or non-public and provide accessors if needed.(³ÜÅûýÿÿÿÿ
+k
+java:S1104"UMake cmdDriver a static final constant or non-public and provide accessors if needed.(—ê¼ý
+p
+java:S1104"ZMake txtVehicleType a static final constant or non-public and provide accessors if needed.(»œÄù
+q
+java:S1104"[Make labelSlotNumber a static final constant or non-public and provide accessors if needed.(¿©¸¸
+i
+java:S1104"SMake lblTime a static final constant or non-public and provide accessors if needed.(¿°×•
+n
+java:S1104"SMake lblDate a static final constant or non-public and provide accessors if needed.(…“À„ÿÿÿÿÿ
+H
+java:S1199@"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º›°Î
